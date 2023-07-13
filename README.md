@@ -1,2 +1,2 @@
 # DesignPatterns-Python-
-I wanted to learn how to use famous patterns in python p.language
+Examples of usage of famous patterns in Python p.language
